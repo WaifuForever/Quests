@@ -24,5 +24,5 @@ public class Quest15 {
 	    
 	    
 	  		// TODO Auto-generated method stub
-}
+	}
 }
